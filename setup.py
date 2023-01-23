@@ -8,7 +8,7 @@ setup(
   author = 'Neha Agarwal',                   # Type in your name
   author_email = 'nagarwal_be20@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/NEHA15012002/Topsis_Neha_102003508',   # Provide either the link to your github or to your website
-  download_url = '',    # I explain this later on
+  download_url = 'https://github.com/NEHA15012002/Topsis_Neha_102003508/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['topsis'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
